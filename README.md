@@ -28,7 +28,7 @@ Video SDK RTC React JS SDK supports many features such as
 
 
 ## 1. Create account on Video SDK
-Start Project at [videosdk.live](https://videosdk.live/)
+### Start Project at [videosdk.live](https://app.videosdk.live/)
 ![Create account on Video SDK](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/648g857v1ctd5cxtyhxa.png)
 
 Navigate to the the start project button and register yourself either using Google Account or Github. 
